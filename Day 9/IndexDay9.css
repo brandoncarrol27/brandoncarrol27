@@ -1,0 +1,23 @@
+
+
+body {
+  background-color: #a09e9e;
+}
+
+input {
+  padding: 10px;
+  font-size: 17px;
+  font-family: Raleway;
+  border: 1px solid #cf1b1b;
+}
+
+h1 {
+font-size: 50px;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+}
+
+form {
+text-align: center;
+}
