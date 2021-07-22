@@ -1,0 +1,47 @@
+#Info {
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic, ;
+    }
+    body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .topnav {
+        overflow: hidden;
+        background-color: #82ecff;
+        
+      }
+      
+      .topnav a {
+        float: left;
+        color: #000000;
+        text-align: center;
+        padding: 14px 16px;
+        font-size: 20px;
+        background-color: #62f5bf;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+      }
+    
+      h1 {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 50px;
+      }
+
+      table, td {
+        border: 1px solid #000000;
+        border-collapse: collapse;
+        background-color: #34ecaf;
+    }
+    table, th {
+      border: 1px solid #000000;
+      border-collapse: collapse;
+      background-color: #82ecff;
+    }
+    
+    table, th, tr  {
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 1000;
+    }
